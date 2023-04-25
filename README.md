@@ -23,6 +23,6 @@
 #### Currently Learning
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tanrungthip&label=Profile%20views&color=0e75b6&style=flat" alt="Tanrungthip" /> </p>
