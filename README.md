@@ -4,12 +4,6 @@
 👩🏻‍🎓 I'm a Student, Undergraduate, and Web Developer<br>
 📚 I love learning new stuff and challenge myself to continually grow and improve both personally and professionally.<br>
 🏁 Plan to spend time throughout the year learning new programming languages and expanding my skillset.<br>
-:speech_balloon: Wanna chat? Please, contact me 👉 <a href="https://www.linkedin.com/in/rungthip-c-24937b230"/><img alt="LinkedIn" height="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-</p>
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
 
 <h4> Languages & Tools </h4>
 
